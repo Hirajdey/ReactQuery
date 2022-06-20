@@ -1,0 +1,128 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "Hiraj ",
+      "alterEgo": "Dey",
+      "id": 4
+    },
+    {
+      "name": "Sujan Pal",
+      "alterEgo": "Can Do anything",
+      "id": 5
+    },
+    {
+      "name": "Karanjit ",
+      "alterEgo": "Manipur",
+      "id": 6
+    },
+    {
+      "name": "Rahul",
+      "alterEgo": "Tripura",
+      "id": 7
+    },
+    {
+      "name": "Bani",
+      "alterEgo": "Nama",
+      "id": 8
+    },
+    {
+      "name": "Mouno",
+      "alterEgo": "Dey",
+      "id": 9
+    },
+    {
+      "name": "HDDD",
+      "alterEgo": "Dey",
+      "id": 10
+    },
+    {
+      "name": "SP",
+      "alterEgo": "Kumarghat",
+      "id": 11
+    },
+    {
+      "name": "KUMAR",
+      "alterEgo": "KGT",
+      "id": 12
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Suajn Pal"
+    },
+    {
+      "id": 2,
+      "name": "Rahul Deb"
+    },
+    {
+      "id": 3,
+      "name": "Hiraj Dey"
+    }
+  ],
+  "users": [
+    {
+      "id": "deyhiraj@gmail.com",
+      "channelId": "codevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
+}
